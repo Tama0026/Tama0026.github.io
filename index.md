@@ -15,7 +15,7 @@ My goal is to stay updated with the latest advancements in software development 
 
 ## 🛠 Technical Skills
 - *Programming:* Dart, C#, Java  
-- *Frameworks & Libraries:* .NET  
+- *Frameworks & Libraries:* .NET, Firebase, Azure
 - *Databases:* Microsoft SQL Server 
 - *Development Tools:* VS Code, VS. 
 
