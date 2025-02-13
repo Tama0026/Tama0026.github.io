@@ -1,123 +1,60 @@
 ---
+title: "Tran Nhut Minh Tam - Portfolio"
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Tran Nhut Minh Tam
+*Software Engineer* passionate about Develop software.
 
-[Link to another page](./another-page.html).
+## 📌 About Me
+I am a dedicated Software Engineer with a strong foundation in software development, system architecture, and problem-solving. My expertise lies in C# and .NET technologies, allowing me to build scalable, high-performance applications.
 
-There should be whitespace between paragraphs.
+I am passionate about continuously improving my skills and exploring new technologies in backend development, database management, and system optimization. I thrive in collaborative environments and enjoy tackling complex challenges to deliver efficient and maintainable solutions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My goal is to stay updated with the latest advancements in software development and contribute to building robust and impactful applications. 🚀
 
-# Header 1
+## 🛠 Technical Skills
+- *Programming:* Dart, C#, Java  
+- *Frameworks & Libraries:* .NET  
+- *Databases:* Microsoft SQL Server 
+- *Development Tools:* VS Code, VS. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 💼 Work Experience
+### *Internship – BackEnd Software Engineer*  
+*FPT Software Academy* (01/2024 - 05/2024)  
+- Developed and maintained *RESTful APIs* using *C# .NET*.  
+- Optimized relational databases (*MSSQL*).  
+- Collaborated with *frontend developers, designers, and product managers*.  
+- Utilized *Trello* for efficient project management.  
 
-## Header 2
+## 🎓 Education
+### *FPT University (2021-2025)*  
+- *Major:* Information Techonology  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🚀 Projects
 
-### Header 3
+### *NomNom app*
+(Completed)
+Built an app order food for student in a campus.  
+- *Technologies Used:* C#, Firebase, Flutter, Vn Pay 
+- *Key Contributions:* Build code base, architecture for back end, deploy api on azure, deploy app on CH play. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### *MTCS*
+(In Progress)
+Developing an system support for a logistic company.  
+- *Technologies Used:* C#, Firebase, Flutter  
+- *Key Contributions:* Build code base, architecture for back end, deploy app on azure. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 🏆 Personal Achievements
+- 🥉 *Good Student in FA24 (2024)*  
 
-#### Header 4
+## 🌍 Languages
+- *Vietnamese:* Native  
+- *English:* equivalent qualifications Toiec 650. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 📩 Contact Me
+- *Email:* [mtam7896@gmail.com](mailto:mtam7896@gmail.com)  
+- *GitHub:* [Tama0026](https://github.com/Tama0026)  
+- *LinkedIn:* [Tran Nhut Minh tam](https://www.linkedin.com/in/tr%E1%BA%A7n-t%C3%A2m-a0875b250/)  
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
