@@ -17,7 +17,7 @@ My goal is to stay updated with the latest advancements in software development 
 - *Programming:* Dart, C#, Java  
 - *Frameworks & Libraries:* .NET, Firebase, Azure
 - *Databases:* Microsoft SQL Server 
-- *Development Tools:* VS Code, VS. 
+- *Development Tools:* VS Code, VS, MSSQL. 
 
 ## 💼 Work Experience
 ### *Internship – BackEnd Software Engineer*  
