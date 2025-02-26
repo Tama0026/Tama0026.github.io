@@ -36,7 +36,7 @@ My goal is to stay updated with the latest advancements in software development 
 ### *NomNom app*
 (Completed)
 Built an app order food for student in a campus.  
-- *Technologies Used:* C#, Firebase, Flutter, Vn Pay 
+- *Technologies Used:* C#, Firebase, Flutter
 - *Key Contributions:* Build code base, architecture for back end, deploy api on azure, deploy app on CH play. 
 
 ### *MTCS*
